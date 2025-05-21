@@ -1,8 +1,8 @@
-# React + Vite
+A fast and minimalist Todo List website built with **React** and **Vite**. Manage your daily tasks easily with options to add, edit, delete, and mark tasks as complete or incomplete — all while storing data locally in your browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+ 1. Add new tasks
+ 2. Edit existing tasks
+ 3. Delete tasks
+ 4. Mark tasks as completed or incomplete
+ 5. Persistent storage via localStorage
